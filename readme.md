@@ -1,4 +1,10 @@
 # M5 - BandKamp Generic View
+Meu objetivo nesse projeto foi adequar um sistema 'legado' que inicialmente já está desenvolvido com APIView e sqlite3, fazendo a transição para Generic Views, ModelSerializer, Postgres e Deploy, além de documentar e de verificar e manter a integridade das funcionalidades já existentes.
+- Interpretar e diagramar a API.
+- Mover toda a estrutura de APIView para Generic Views e ModelSerializer;
+- Configurar o projeto para utilizar Postgres
+- Documentar a API;
+- Fazer o deploy da aplicação;
 
 ## Instalação dos pacotes de teste
 
